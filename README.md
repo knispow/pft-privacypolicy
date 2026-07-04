@@ -1,6 +1,6 @@
 **PRIVACY POLICY**  
 **PFT & Spirometry Tool**  
-**Last updated:** [Month Day, Year]
+**Last updated:** [July 4, 2026]
 
 Abhishek Kumar (“Developer,” “we,” “us”) operates the mobile application **PFT & Spirometry Tool** (the “App”). This Privacy Policy explains how information is handled when you use the App.
 
